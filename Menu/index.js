@@ -10,6 +10,10 @@ export default function Menu() {
       <Link href="/users/kode">
         <a>Kode</a>
       </Link>
+      <br />
+      <Link href="/users/blog">
+        <a>blog</a>
+      </Link>
     </div>
   );
 }
