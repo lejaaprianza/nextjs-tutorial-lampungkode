@@ -1,4 +1,4 @@
-export default function Kode() {
+export default function Blog() {
   return (
     <div>
       <h1>blog</h1>
